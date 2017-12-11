@@ -4,12 +4,11 @@ Welcome to the SOFA Community! Here is a brief summary of how it is structured:
 - SOFA Users: people using SOFA by writing scenes or using the SOFA API.
 - SOFA Developpers: people programming into SOFA, modifying the API, writing plugins.
 - SOFA Contributors: (awesome) people proposing their changes in SOFA code via pull-requests.
-- SOFA Reviewers: people reviewing and merging the pull-requests. This group is validated by the Scientific and Technical Committee (STC).
+- SOFA Commiters: contributors with write access to the main code repository. They review and merge the pull-requests in addition to their contribution work. New committers are vetted by the Scientific and Technical Committee (STC).
 - SOFA Consortium: research centers and companies willing to share the cost of development and maintenance of SOFA, hosted by the Inria Foundation.
-- SOFA Consortium Staff: administrators of SOFA and its ecosystem. This group is directed by the Executive Committee (EC).
+- SOFA Consortium Staff: people paid by the consortium to work to further develop SOFA and its eco-system. They are in general committers, and tool administrators for SOFA and its ecosystem. Work priorities for the consortium staff are set by the Executive Committee (EC).
 
-All SOFA Developpers are gladly invited to the SOFA-dev meetings.  
-They take place remotely every Wednesday at 10 a.m. CET and are animated by the SOFA Reviewers + the Consortium Staff.  
+SOFA commiters hold a meeting every week to coordinate their work. All SOFA Developpers are gladly invited to the SOFA-dev meetings. They take place remotely every Wednesday at 10 a.m. CET and are cahired by the SOFA Reviewers + the Consortium Staff.  
 [Subscribe to SOFA-dev mailing-list](https://sympa.inria.fr/sympa/subscribe/sofa-dev) to get the agenda, reports and conference room url.
 
 About the steering committees:
